@@ -1,0 +1,12 @@
+# Ignore directories
+discourse_json/
+tds_pages_md
+__pycache__/
+env/
+.env/
+
+# Ignore files
+.env
+dat_process.py
+*.pyc
+.DS_Store
